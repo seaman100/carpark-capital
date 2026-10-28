@@ -4,7 +4,7 @@ A traffic-management game and the strategy notes that go with it.
 
 ## Links
 
-- [Car Park Capital — Guides/Beginner Guide](https://carparkcapital.com/guides/beginner-guide/)
+- [beginner's guide](https://carparkcapital.com/guides/beginner-guide/)
 
 - [Main site](https://carparkcapital.com/)
 
