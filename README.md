@@ -2,12 +2,12 @@
 
 A traffic-management game and the strategy notes that go with it.
 
-## Links
+The tool itself is at [compare a layout before and after a rebuild](https://carparkcapital.com/tools/experiment/).
 
-- [beginner's guide](https://carparkcapital.com/guides/beginner-guide/)
+There is a longer walkthrough at [how to survive your first twenty minutes in a traffic game](https://carparkcapital.com/guides/beginner-guide/).
 
-- [Main site](https://carparkcapital.com/)
+Project home: [Car Park Capital](https://carparkcapital.com/).
 
-## Notes
+---
 
-Independent project. Free to use in the browser; no account required.
+Independent project. Free to use in the browser, no account required.
